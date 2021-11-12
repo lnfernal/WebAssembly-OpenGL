@@ -43,8 +43,7 @@ void Application::Input(){
 };
 
 void Application::Update(){
-    SDL_Rect rect(0, 0, 100, 100);
-    SDL_FillRect(mWindow, &rect, SDL_MapRGB())
+
 };
 
 void Application::Render(){
