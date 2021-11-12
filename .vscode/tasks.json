@@ -1,0 +1,26 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build",
+            "type": "shell",
+            "command": "emcc",
+            "args": [
+                "--bind", "private/src/main.cpp", "private/utils/Application.cpp",
+                "-Os", 
+                "-s", "WASM=1", 
+                "-s", "USE_SDL=2",
+                "-s", "ERROR_ON_UNDEFINED_SYMBOLS=0",
+                "-s", "MODULARIZE=1",
+                "-o", "out/out.js"
+            ],
+            "group": {
+                "kind" : "build",
+                "isDefault" : true
+            },
+            "presentation": {
+                "panel" : "new"
+            },
+        }
+    ]
+}
