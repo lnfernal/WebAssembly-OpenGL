@@ -1,8 +1,8 @@
-# WebGL-with-WebAssembly
+# OpenGL-SDL-with-WebAssembly
 
 # Welcome
 
-Creating project with SDL ! 
+Creating project with SDL and OpenGL using Emscripten/WebAssembly ! 
 
 ## Run Locally
 
