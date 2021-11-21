@@ -20,7 +20,7 @@ Go to the project directory
 
 Start 
 
-```node
+```bash
   npm run start
 ```
 
