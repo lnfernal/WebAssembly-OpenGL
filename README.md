@@ -1,4 +1,4 @@
-# OpenGL-SDL-with-WebAssembly
+# WebAssembly-OpenGL
 
 # Welcome
 
@@ -9,13 +9,13 @@ Creating project with SDL and OpenGL using Emscripten/WebAssembly !
 Clone the project
 
 ```bash
-  git clone https://github.com/KorieDrakeChaney/WebAssembly-SDL.git
+  git clone https://github.com/KorieDrakeChaney/WebAssembly-OpenGL.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd OpenGL-SDL-with-WebAssembly
+  cd WebAssembly-OpenGL
 ```
 
 Start 
