@@ -15,7 +15,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd OpenGL-SDL-with-WebAssembly
 ```
 
 Start 
