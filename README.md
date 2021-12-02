@@ -27,5 +27,3 @@ Start
   
 
   ## Authors
-
-- [@KorieDrakeChaney](https://github.com/KorieDrakeChaney)
